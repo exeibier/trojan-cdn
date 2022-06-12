@@ -50,7 +50,7 @@ export default function Home() {
             </p>
           </a>
         </div>
-        <Image src="/mail.jpeg" alt="Vercel Logo" width={100} height={150} />
+        <Image src="/mail.jpeg" alt="Vercel Logo" width={1871 } height={2615} />
 
       </main>
 
