@@ -50,6 +50,8 @@ export default function Home() {
             </p>
           </a>
         </div>
+        <Image src="/mail.jpeg" alt="Vercel Logo" width={100} height={150} />
+
       </main>
 
       <footer className={styles.footer}>
@@ -60,7 +62,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/mail.jpeg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
